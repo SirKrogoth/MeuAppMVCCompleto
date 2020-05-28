@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.IO", "src\Dev.IO\Dev.IO.csproj", "{2FE03078-3003-4669-BED6-EB70EB1D51AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevIO.App", "src\Dev.IO\DevIO.App.csproj", "{2FE03078-3003-4669-BED6-EB70EB1D51AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIO.Business", "src\DevIO.Business\DevIO.Business.csproj", "{500D28B2-2EF6-4C19-A19F-99DD04DE1B07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevIO.Business", "src\DevIO.Business\DevIO.Business.csproj", "{500D28B2-2EF6-4C19-A19F-99DD04DE1B07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIO.Data", "src\DevIO.Data\DevIO.Data.csproj", "{9473DFC6-BC95-4392-A81A-DE1F7E8F5606}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevIO.Data", "src\DevIO.Data\DevIO.Data.csproj", "{9473DFC6-BC95-4392-A81A-DE1F7E8F5606}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
