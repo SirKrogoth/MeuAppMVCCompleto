@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using DevIO.App.Models;
+using DevIO.App.ViewsModels;
 
 namespace DevIO.App.Controllers
 {
