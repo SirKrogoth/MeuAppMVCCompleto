@@ -58,7 +58,7 @@ namespace DevIO.App.Controllers
 
             await _fornecedorRepository.Adicionar(fornecedor);
 
-            return View(nameof(Index)); 
+            return RedirectToAction(nameof(Index));
         }
 
         public async Task<IActionResult> Edit(Guid id)
