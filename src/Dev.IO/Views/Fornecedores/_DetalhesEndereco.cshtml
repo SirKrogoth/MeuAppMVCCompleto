@@ -62,7 +62,9 @@
                     @Html.DisplayFor(model => model.Endereco.Estado)
                 </td>
                 <td>
-                    <a href="" class="btn btn-info"><span title="Editar" class="fa fa-pencil-alt"></span></a>
+                    <a asp-action="AtualizarEndereco" class="btn btn-info" data-modal="">
+                        <span title="Editar" class="fa fa-pencil-alt"></span>
+                    </a>
                 </td>
             </tr>
         </table>
